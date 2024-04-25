@@ -1,17 +1,8 @@
-<!-- # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh -->
-
 # Identity Card React App
 
 Welcome to the Identity Card React App! This is a simple React application designed to display identity card information fetched from an API.
 
-![Cryptonet Technology Pvt. Ltd.]('/src/assets/image.png')
+![Cryptonet Technology Pvt. Ltd.](/src/assets/image.png)
 
 ## Features
 
@@ -21,7 +12,7 @@ Welcome to the Identity Card React App! This is a simple React application desig
 ## Technologies Used
 
 - React.js
-- ![https://randomuser.me/api/?page=1&results=1&seed=abc] - Provide details of the API you're fetching data from.
+- [https://randomuser.me/api/?page=1&results=1&seed=abc] - Provide details of the API you're fetching data from.
 - [react-loader-spinner](https://www.npmjs.com/package/react-loader-spinner) - A library for adding loading spinners in React applications.
 
 ## Getting Started
