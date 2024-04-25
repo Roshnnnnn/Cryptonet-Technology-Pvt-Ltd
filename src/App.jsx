@@ -28,7 +28,7 @@ function App() {
 
     const loaderTimer = setTimeout(() => {
       fetchData();
-    }, 2000);
+    }, 3000);
 
     return () => clearTimeout(loaderTimer);
   }, []);
